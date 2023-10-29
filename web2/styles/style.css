@@ -1,0 +1,33 @@
+#coinInfo{
+
+width: 300px;
+/*  we used the padding to center the text in the box    
+    And its used to create the box 
+    (kinda like stuffing a pillow with feathers) */
+  padding: 35px;
+  padding-bottom: 60px;
+  
+  /* Gives us that nice text box kinda like apple  */
+  border: 3px solid #ccc;
+
+  /* border radius givus us that nice curve */
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgb(237, 171, 255);
+  background-color: #fff;
+  margin: 60px;
+  line-height: 1.5;
+
+}
+
+
+#selectCoin{
+
+    width: 300px;
+    padding: 20px;
+    border: 3px solid #cacaca;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(237, 171, 255);
+    background-color: #fff;
+    margin: 20px;
+
+}
